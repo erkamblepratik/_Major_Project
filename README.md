@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mp1trial
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
@@ -33,3 +34,7 @@ To learn more, take a look at the following resources:
 - [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
 
 <a href="https://v0.app/chat/api/kiro/clone/kalemandar122-del/mp1trial" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+=======
+# _Major_Project
+Its my B.Tech Major Project
+>>>>>>> fd8dafc328baafd7a6c6db11797558273f6f18c2
